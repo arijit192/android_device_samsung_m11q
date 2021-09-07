@@ -14,6 +14,6 @@
 # limitations under the License.
 #
 
-PRODUCT_MAKEFILES := $(LOCAL_DIR)/full_m11q.mk
+PRODUCT_MAKEFILES := $(LOCAL_DIR)/arrow_m11q.mk
 
-COMMON_LUNCH_CHOICES := full_m11q-userdebug
+COMMON_LUNCH_CHOICES := arrow_m11q-userdebug
