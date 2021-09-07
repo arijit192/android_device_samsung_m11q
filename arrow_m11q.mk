@@ -21,7 +21,7 @@ $(call inherit-product, device/samsung/m11q/device.mk)
 # Inherit common ArrowOS configurations
 $(call inherit-product, vendor/arrow/config/common.mk)
 
-PRODUCT_NAME := full_m11q
+PRODUCT_NAME := arrow_m11q
 PRODUCT_DEVICE := m11q
 PRODUCT_BRAND := samsung
 PRODUCT_MODEL := m11q
