@@ -100,7 +100,7 @@ AUDIO_DLKM += mpq-adapter.ko
 AUDIO_DLKM += mpq-dmx-hw-plugin.ko
 PRODUCT_PACKAGES += $(AUDIO_DLKM)
 
- MIDI feature
+#MIDI feature
 PRODUCT_COPY_FILES += \
     frameworks/native/data/etc/android.software.midi.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/android.software.midi.xml
 
